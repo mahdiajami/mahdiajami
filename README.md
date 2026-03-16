@@ -9,17 +9,7 @@
 
 ---
 
-I'm a computer engineering student with a focus on data science, machine learning, and AI research. I work with real-world datasets to extract insights, build predictive models, and tell data-driven stories. Currently enrolled in the Full Stack with SE Factory program while independently deepening my ML and research skills.
-
-**What I'm working on:**
-- Geospatial analysis of EV adoption patterns across Washington State (270k rows) — clustering, time-series forecasting, and Census demographic joins
-- Global renewable energy analysis across 2,500+ records spanning 50+ features — policy impact modeling and resource potential gap analysis
-- Exploring unsupervised learning methods for geographic segmentation
-
-**Research interests:**
-- Geospatial data science and urban mobility
-- Energy systems and climate data
-- Applied ML for policy and social impact
+I'm a computer engineering student with a focus on data science, machine learning, and AI research. I work with real-world datasets to extract insights, build predictive models, and tell data-driven stories. Currently deepening my ML and research skills.
 
 ---
 
